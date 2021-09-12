@@ -1,0 +1,10 @@
+C:\Users\50370\source\repos\Practica100921\Practica100921\obj\Debug\Practica100921.csproj.AssemblyReference.cache
+C:\Users\50370\source\repos\Practica100921\Practica100921\obj\Debug\Practica100921.Form1.resources
+C:\Users\50370\source\repos\Practica100921\Practica100921\obj\Debug\Practica100921.Properties.Resources.resources
+C:\Users\50370\source\repos\Practica100921\Practica100921\obj\Debug\Practica100921.csproj.GenerateResource.cache
+C:\Users\50370\source\repos\Practica100921\Practica100921\obj\Debug\Practica100921.csproj.CoreCompileInputs.cache
+C:\Users\50370\source\repos\Practica100921\Practica100921\bin\Debug\Practica100921.exe.config
+C:\Users\50370\source\repos\Practica100921\Practica100921\bin\Debug\Practica100921.exe
+C:\Users\50370\source\repos\Practica100921\Practica100921\bin\Debug\Practica100921.pdb
+C:\Users\50370\source\repos\Practica100921\Practica100921\obj\Debug\Practica100921.exe
+C:\Users\50370\source\repos\Practica100921\Practica100921\obj\Debug\Practica100921.pdb
